@@ -3,11 +3,11 @@ Uses Crt;
 Begin
     ClrScr;
     ClrScr;
-        Writeln(‘Hello’);//untuk mengeluarkan string ‘Hello’ di layar
-        Writeln(‘1301150069’); //Ubah untuk menampilkan NIM Anda
-        Writeln(‘MUHAMMAD IRFAN’); //Ubah untuk menampilkan Nama Anda
-        Writeln(‘IF 39 13’); //Ubah untuk menampilkan Kelas Anda
-        Writeln(‘ARDI’); //Ubah untuk menampilkan Nama Asprak Anda
-        Writeln(‘11301154265’); //Ubah untuk menampilkan NIM teman anda
-        Writeln(‘Modul 10’); //Ubah untuk menampilkan string ‘Modul 6
+        Writeln(‘Hello’);
+        Writeln(‘1301150069’); 
+        Writeln(‘MUHAMMAD IRFAN’); 
+        Writeln(‘IF 39 13’); 
+        Writeln(‘ARDI’);
+        Writeln(‘11301154265’); 
+        Writeln(‘Modul 10’); 
     End.
